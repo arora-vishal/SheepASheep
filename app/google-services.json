@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842145310207",
+    "project_id": "sheep-a-sheep",
+    "storage_bucket": "sheep-a-sheep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842145310207:android:ccf83f6415d316dde933ca",
+        "android_client_info": {
+          "package_name": "com.effort.host"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842145310207-214oreu650ioomhdshhfrfo46rg43gk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.effort.host",
+            "certificate_hash": "ed4103c28e50ba69fc90e461061f7116e9843fda"
+          }
+        },
+        {
+          "client_id": "842145310207-0070cbi7a17idkc3khvgnvd0behuoi1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkdD5cQWecN3aPXOMn0FkO2MvISWJeWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842145310207-0070cbi7a17idkc3khvgnvd0behuoi1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
